@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-My name is Linfeng (Daniel) Zhou. I'm a cryptographer and also an crypto/web3 investor. 
+My name is Linfeng (Daniel) Zhou
 
 ### My story
 
