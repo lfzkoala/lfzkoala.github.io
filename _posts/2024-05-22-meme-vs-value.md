@@ -9,8 +9,6 @@ tags: [crypto, bitcoin]
 author: Linfeng (Daniel) Zhou
 ---
 
-### Meme Coins vs. Value Coins
-
 Recently, there's been a trend suggesting that value coins are worthless and that meme coins represent the future.
 
 While I've criticized overvalued VC-backed coins multiple times, holding the above view might cause one to miss the next big opportunity.
