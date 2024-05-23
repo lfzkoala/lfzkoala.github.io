@@ -4,7 +4,7 @@ title: Research
 ---
 
 My research interests mainly focus on secure multiparty computation, zero-knowledge proofs and blockchain. 
-Recently I start touching a bit with post-quantum security research. 
+Recently I start touching a bit about AI&crypto and post-quantum security research. 
 
 ### Publication
 
