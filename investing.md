@@ -13,11 +13,11 @@ I wrote my first investment check in 2014 and I'm happy to invest in innovative 
 
 We receive tons of pitching emails. In case we miss your great ideas, please kindly prepare an email with a commentable Google Doc with the answers to the following before sending your email: 
 
-- What is the company’s purpose.
-- What problem you are solving. 
-- What is your solution to the problem. 
-- Why build the company now.
-- How do you plan to make money.
-- Who is on the team. 
-- How much you’re planning to raise. 
-- If you already have a lead investor.
+- What is the mission of your company?
+- What specific issue are you addressing?
+- What solution are you offering to tackle this issue?
+- Why is now the right time to start this company?
+- What is your revenue model?
+- Who are the members of your team?
+- What is your fundraising goal?
+- Do you have a lead investor already committed?
