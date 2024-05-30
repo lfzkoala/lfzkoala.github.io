@@ -9,4 +9,6 @@ tags: [crypto, security, rug]
 author: Linfeng (Daniel) Zhou
 ---
 
-![Crepe](assets/img/normie-rug.jpg)
+
+
+![Normie Rug](/assets/img/normie-rug.jpg)
