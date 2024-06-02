@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts After Reading "Securing the Future of GenAI: Policy and Technology"
+title: Thoughts After Reading "Securing the Future of GenAI - Policy and Technology"
 subtitle:
 cover-img: 
 thumbnail-img: 
