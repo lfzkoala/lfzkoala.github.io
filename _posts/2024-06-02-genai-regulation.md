@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: 
 share-img: 
-tags: [crypto, security, rug]
+tags: [security, regulation, GenAI]
 author: Linfeng (Daniel) Zhou
 ---
 
