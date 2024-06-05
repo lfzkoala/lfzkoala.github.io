@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 thumbnail-img: 
 share-img: 
-tags: [security, regulation, GenAI]
+tags: [fully homomorphic encryption, ethereum, L2, crypto, investment]
 author: Linfeng (Daniel) Zhou
 ---
 
