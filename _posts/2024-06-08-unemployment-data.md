@@ -2,7 +2,7 @@
 layout: post
 title: U.S. Employment Data - What’s Going On?
 subtitle:
-cover-img: 
+cover-img: /assets/img/unemp-data.jpg
 thumbnail-img: 
 share-img: 
 tags: [policy]
