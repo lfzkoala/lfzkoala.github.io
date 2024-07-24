@@ -11,6 +11,8 @@ I co-founded [Pepper Ventures](https://sites.google.com/view/pepperventures) wit
 
 I'm also a limited partner of some venture capital firms and also doing angel investing in crypto/web3. 
 
+Read [my experience with crypto](https://medium.com/@daniel.linfeng.zhou/written-on-the-occasion-of-bitcoins-fourth-halving-452605a874da) if you're interested. 
+
 ### Education. 
 
 PhD (dropped out) in Cryptography & Master in Computer Science at North Carolina State University
