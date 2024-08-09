@@ -9,7 +9,7 @@ I'm currently heading cryptography at [Ephemera](https://ephemerahq.com/). I als
 
 I co-founded [Pepper Ventures](https://sites.google.com/view/pepperventures) with my fantastic partners in late 2022 to invest in crypto/web3 and help companies go public with IPO and SPAC Mergers. Our crypto/web3 investment check size is usually from $50K to $250K. We already filed two SPAC IPOs and have another two in progress. 
 
-I'm also a limited partner of some venture capital firms and also doing angel investing in crypto/web3. 
+I'm investing crypto/web3 via Pepper Ventures, as an Angel or as an LP of some venture firms. 
 
 Read [my experience with crypto](https://medium.com/@daniel.linfeng.zhou/written-on-the-occasion-of-bitcoins-fourth-halving-452605a874da) if you're interested. 
 
