@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I'm Stepping Back from LinkedIn: A Personal Perspective
+title: Why I'm Stepping Back from LinkedIn - A Personal Perspective
 subtitle:
 cover-img: 
 thumbnail-img: 
