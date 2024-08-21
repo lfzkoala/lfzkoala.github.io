@@ -3,17 +3,23 @@ layout: page
 title: About me
 ---
 
-My name is Linfeng (Daniel) Zhou. I'm a cryptographer and also an investor. 
+Hey there! I'm Linfeng, but you can call me Daniel. At my core, I'm a cryptographer with a deep passion for advancing blockchain technology and decentralized systems.
+My days are filled with designing cutting-edge cryptographic protocols, crafting robust identity systems, and integrating advanced techniques like multiparty computation, zero-knowledge proofs and post-quantum cryptography into innovative blockchain solutions. I'm constantly exploring new ways to push the boundaries of privacy and security in distributed systems.
 
-I'm building something new using cool cryptography. 
+My journey in cryptography has been exhilarating:
 
- I was heading cryptography at Ephemera. Before that, I was co-leading the cryptography team at [Coinbase](https://www.coinbase.com/) and then engineering lead for Coinbase Wallet. I also worked for Transparent Financial Systems, State Street, IBM Research, Cheetah Mobile and Google. I was one of founding members of [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric). 
+I've contributed to groundbreaking projects at [Coinbase](https://www.coinbase.com/), where I was a major contributor to the open-source Kryptology library.
+I've designed confidential blockchain networks for financial services, enhancing privacy and security in the financial sector.
+I've pursued academic research in cryptography, focusing on blockchain proof-of-stake consensus and zero-knowledge proofs.
+I've made valuable contributions to open-source projects like [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric), helping to shape the foundation of enterprise blockchain solutions.
 
-I co-founded [Pepper Ventures](https://sites.google.com/view/pepperventures) with my fantastic partners in late 2022 to invest in crypto/web3 and help companies go public with IPO and SPAC Mergers. Our crypto/web3 investment check size is usually from $50K to $250K. We already filed two SPAC IPOs and have another two in progress. 
+Beyond my work as a cryptographer, I'm deeply involved in nurturing the growth of the Web3 ecosystem:
 
-I'm investing crypto/web3 via Pepper Ventures, as an Angel or as an LP of some venture firms. 
+I co-founded [Pepper Ventures](https://sites.google.com/view/pepperventures), where we invest in promising early-stage Web3 startups, helping to shape the future of decentralized technologies.
+I founded [Fertile Fields Labs](https://sites.google.com/view/fertilefieldslabs/home) to provide top-tier crypto services to Web3 companies and asset management firms, bridging the gap between traditional finance and the crypto world.
+I advise various Web3 companies on cryptography and security, particularly in zero-knowledge proofs and secure AI/machine learning applications, fostering innovation at the intersection of these cutting-edge fields.
 
-I also founded [Fertile Fields Labs](https://sites.google.com/view/fertilefieldslabs/home), a crypto consulting firm for security auditing and business advising.
+My mission is to leverage cryptography to make the decentralized web more secure, efficient, and accessible. Whether it's through developing novel cryptographic protocols, implementing secure blockchain systems, or mentoring the next generation of crypto projects, I'm always working to advance the field.
 
 Read [my experience with crypto](https://medium.com/@daniel.linfeng.zhou/written-on-the-occasion-of-bitcoins-fourth-halving-452605a874da) if you're interested. 
 
