@@ -23,13 +23,5 @@ My mission is to leverage cryptography to make the decentralized web more secure
 
 Read [my experience with crypto](https://medium.com/@daniel.linfeng.zhou/written-on-the-occasion-of-bitcoins-fourth-halving-452605a874da) if you're interested. 
 
-### Education. 
-
-PhD (dropped out) in Cryptography & Master in Computer Science at North Carolina State University
-
-Master in Security Informatics at Johns Hopkins University
-
-Bachelor in Mathematics at Shandong University, China
-
 
 
