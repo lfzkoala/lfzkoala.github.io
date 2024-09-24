@@ -37,4 +37,4 @@ Legal and ethical standing: Depending on your choices, you could face serious co
 
 Future options: Going all-in on a dream might limit your choices later. Are you prepared for how this decision shapes your future?
 
-Remember, chasing big dreams is high-risk, high-reward. Go in with eyes wide open, understanding what's at stake. It's a wild ride, but it could be the adventure of a lifetime. Are you ready to take the leap?
+Remember, chasing big dreams is high-risk, high-reward. Go in with eyes wide open, understanding what's at stake. It's a wild ride, but it could be the adventure of a lifetime. Are you ready?
