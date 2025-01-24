@@ -8,7 +8,7 @@ My days are filled with designing cutting-edge cryptographic protocols, crafting
 
 My journey in cryptography has been exhilarating:
 
-* I've contributed to groundbreaking projects at [Coinbase](https://www.coinbase.com/), where I was a major contributor to the open-source Kryptology library.
+* I've contributed to groundbreaking projects at [Coinbase](https://www.coinbase.com/), where I was a major contributor to the open-source Kryptology library and Coinbase Wallet and Decentralized Identity.
 * I've designed confidential blockchain networks for financial services, enhancing privacy and security in the financial sector.
 * I've pursued academic research in cryptography, focusing on blockchain proof-of-stake consensus and zero-knowledge proofs.
 * I've made valuable contributions to open-source projects like [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric), helping to shape the foundation of enterprise blockchain solutions.
