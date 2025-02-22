@@ -5,7 +5,7 @@ title: About me
 
 Hey there! I'm Linfeng (Daniel). I started my career as a cryptographer and now building and investing in crypto, AI and quantum/post-quantum computing. 
 
-Right now I'm building something new in crypto. I'm investing in crypto via angel investing, [Pepper Ventures](https://sites.google.com/view/pepperventures) as a founding partner and other firms where I'm a limited partner. I'm also advising crypto startups and investing firms via [Fertile Fields Labs](https://sites.google.com/view/fertilefieldslabs/home).
+Right now I'm building something new in crypto. I'm investing in crypto via angel investing, [Pepper Ventures](https://sites.google.com/view/pepperventures) as a founding partner and other firms where I'm a limited partner. I'm also advising crypto startups and investing firms via [Fertile Fields Labs](https://sites.google.com/view/fertilefieldslabs/home) that I founded.
 
 Read [my experience with crypto](https://medium.com/@daniel.linfeng.zhou/written-on-the-occasion-of-bitcoins-fourth-halving-452605a874da) if you're interested. 
 
