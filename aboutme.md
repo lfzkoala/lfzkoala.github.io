@@ -16,6 +16,7 @@ Previously:
 * Designed confidential blockchain networks for financial services, enhancing privacy and security in the financial sector for [State Street](https://www.statestreet.com/ca/en/asset-owner). 
 * I've pursued academic research in cryptography, focusing on blockchain proof-of-stake consensus and zero-knowledge proofs and then dropped out PhD.
 * I was one of founding team members of [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric), helping to shape the foundation of enterprise blockchain solutions.
+* .......
 
 
 
