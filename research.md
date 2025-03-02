@@ -19,13 +19,13 @@ Collusion-Resistant Broadcast Encryption with Tight Reductions and Beyond, Linfe
 From Weakly Selective to Selective Security in Compact Functional Encryption, Revisited, Linfeng Zhou, [PDF](https://eprint.iacr.org/2016/848.pdf) 
 
 ### Blog Posts
-Meet Kryptology: Coinbase’s Open Source Cryptography Library 
+[Meet Kryptology: Coinbase’s Open Source Cryptography Library] (https://www.cryptohopper.com/news/meet-kryptology-coinbase-s-open-source-cryptography-library-4992)
 
-FROST: Flexible Round-Optimized Schnorr Threshold Signatures 
+[FROST: Flexible Round-Optimized Schnorr Threshold Signatures](https://medium.com/the-coinbase-blog/frost-flexible-round-optimized-schnorr-threshold-signatures-b2e950164ee1) 
 
-Cross-Chain Atomic Swap Protocol 
+[Comparison of Different ZK-SNARKs](https://medium.com/@daniel.linfeng.zhou/comparison-of-different-zk-snarks-3f3ac7dd8a4a) 
 
-Comparison of Different ZK-SNARKs 
+and many others......see my [medium page](https://medium.com/@daniel.linfeng.zhou) or [this website](https://lfzkoala.github.io/)
 
 ### Review
 
