@@ -40,3 +40,15 @@ Conference: PKC 2018, CRYPTO 2018, ASIACRYPT 2018, PKC 2019, ICALP 2019
 Journal: IEEE Transactions on Information Forensics and Security 
 
 
+<!-- News
+Hyperledger Fabric News Press (there are many news press by searching Hyperledger Fabric, give some examples below):
+
+https://cointelegraph.com/tags/hyperledger
+https://www.coindesk.com/tag/hyperledger-fabric
+https://crypto.news/tag/hyperledger/
+
+Coinbase Kryptology news press (also there are many by searching, give some examples below)
+
+https://cointelegraph.com/news/coinbase-launches-open-source-cryptography-library-kryptology
+https://www.linuxtoday.com/blog/coinbase-publishes-kryptology-library-of-distributed-crypto-algorithms/
+https://www.techtimes.com/articles/269031/20211206/coinbase-launches-online-library-providing-open-source-information-on-cryptography-introducing-kryptology.htm -->
