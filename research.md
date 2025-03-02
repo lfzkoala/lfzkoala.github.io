@@ -19,7 +19,7 @@ Collusion-Resistant Broadcast Encryption with Tight Reductions and Beyond, Linfe
 From Weakly Selective to Selective Security in Compact Functional Encryption, Revisited, Linfeng Zhou, [PDF](https://eprint.iacr.org/2016/848.pdf) 
 
 ### Blog Posts
-[Meet Kryptology: Coinbase’s Open Source Cryptography Library] (https://www.cryptohopper.com/news/meet-kryptology-coinbase-s-open-source-cryptography-library-4992)
+[Meet Kryptology: Coinbase’s Open Source Cryptography Library](https://www.cryptohopper.com/news/meet-kryptology-coinbase-s-open-source-cryptography-library-4992)
 
 [FROST: Flexible Round-Optimized Schnorr Threshold Signatures](https://medium.com/the-coinbase-blog/frost-flexible-round-optimized-schnorr-threshold-signatures-b2e950164ee1) 
 
