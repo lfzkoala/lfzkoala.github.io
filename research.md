@@ -6,7 +6,13 @@ title: Research
 My research interests mainly focus on secure multiparty computation, zero-knowledge proofs and blockchain. 
 Recently I start touching a bit about AI&crypto and post-quantum security research. 
 
-### Publication
+### Publication and Technical Report
+
+FROST in Kryptology at Coinbase [PDF](https://github.com/coinbase/kryptology/blob/master/docs/FROST_pseudocode_for_Coinbase_v2.pdf)
+
+Distributed Key Generation in Kryptology at Coinbase [PDF](https://github.com/coinbase/kryptology/blob/master/docs/GennaroDkg.pdf)
+
+Threshold ECDSA at Coinbase [PDF](https://github.com/coinbase/kryptology/blob/master/docs/Coinbase_Pseudocode_v5.pdf)
 
 Anonymous Lottery In the Proof-of-Stake Setting, with Varun Madathil, Foteini Baldimtsi and Alessandra Scafuro, IEEE Computer Security Foundations 2020 [PDF](https://eprint.iacr.org/2020/533.pdf)
 
