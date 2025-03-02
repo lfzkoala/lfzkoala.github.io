@@ -21,7 +21,7 @@ From Weakly Selective to Selective Security in Compact Functional Encryption, Re
 ### Blog Posts
 [Meet Kryptology: Coinbase’s Open Source Cryptography Library](https://www.cryptohopper.com/news/meet-kryptology-coinbase-s-open-source-cryptography-library-4992)
 
-[FROST at Coinbase](https://medium.com/the-coinbase-blog/frost-flexible-round-optimized-schnorr-threshold-signatures-b2e950164ee1) 
+[FROST at Coinbase](https://medium.com/the-coinbase-blog/frost-flexible-round-optimized-schnorr-threshold-signatures-b2e950164ee1), [pseudocode](https://github.com/coinbase/kryptology/blob/master/docs/FROST_pseudocode_for_Coinbase_v2.pdf) 
 
 [Comparison of Different ZK-SNARKs](https://medium.com/@daniel.linfeng.zhou/comparison-of-different-zk-snarks-3f3ac7dd8a4a) 
 
