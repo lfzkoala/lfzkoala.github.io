@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Why Coinbase Prefers Acquisitions Over Internal Development
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
 tags: [Crypto, Business, Strategy, Coinbase]
 author: Linfeng (Daniel) Zhou
 ---
