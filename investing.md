@@ -17,7 +17,7 @@ We usually receive tons of pitching emails. In case we miss your great ideas, pl
 - Do you have a lead investor already committed?
 
 ### Investing via Pepper Ventures. 
-We have written an article describing Pepper Ventures' [investment thesis](https://medium.com/@pepperinvestmentfund/investment-outlook-of-pepper-ventures-in-2023-b4cad50647f0) in early 2023. Our recent investment strategy slightly changed but focus on crypto infrastructure, zero-knowledge proofs, AI&crypto, DeFi and GameFi, but more broadly, we carefully review every pitching we received in many different fields. If you'd like to pitch with us, please send your commentable document to our official email [info@hercules.global](info@hercules.global) or [daniel.zhou@hercules.global](daniel.zhou@hercules.global). 
+We carefully review every pitching we received in many different fields. If you'd like to pitch with us, please send your commentable document to our official email [info@hercules.global](info@hercules.global) or [daniel.zhou@hercules.global](daniel.zhou@hercules.global). 
 
 ### Angel Investing
 I wrote my first investment check in 2014 and I'm happy to invest in innovative ideas. Since I'm a cryptographer, I'm extremely excited to talk about new ideas based on cryptography or cryptographer founders. Additionally, if you have worked with me in industry (e.g., Coinbase, Hyperledger, Google .etc) or someone else who has worked with me referred you, then I'm open to chatting. If you'd like to pitch with me for angel investing, please send your email to [daniel.linfeng.zhou@gmail.com](daniel.linfeng.zhou@gmail.com). 
