@@ -5,7 +5,7 @@ tags: [stablecoins, ai, media, markets, portfolio]
 author: Linfeng (Daniel) Zhou
 ---
 
-The most important trend in markets right now isn’t a new L2 or a hot app. It’s the quiet **growth of dollar demand**—and how that demand moves through **stablecoins, AI, and media**.
+The most important trend in markets right now isn’t a new L2 or a hot app. It’s the quiet growth of dollar demand—and how that demand moves through **stablecoins, AI, and media**.
 
 Think of it like a simple machine:
 - Stablecoins put dollars on the internet so anyone can use them fast and cheap.
@@ -24,7 +24,7 @@ If you view these three as one system, investing gets simpler. You can focus on 
 4. **Media channels attention** and turns stories into buying and selling.
 5. The gains loop back, making rails stronger and the next wave easier.
 
-This doesn’t mean prices only go up. It tells you **where** returns usually collect: assets that **create**, **route**, or **amplify** liquidity.
+This doesn’t mean prices only go up. It tells you where returns usually collect: assets that create, route, or amplify liquidity.
 
 ---
 
@@ -61,8 +61,8 @@ Surfaces don’t just show markets; they move them.
 These tell you when to add risk and when to cut back:
 
 - **Stablecoin total supply (MoM)** – clean proxy for on-chain dollar demand.
-  - If USDT+USDC grow **≥ +5% MoM** → rails are strong → OK to lean into BTC/ETH beta.
-  - If growth is **≤ 0%** for a few weeks → liquidity is tired → trim satellites, raise cash.
+  - If USDT+USDC grow ≥ +5% MoM → rails are strong → OK to lean into BTC/ETH beta.
+  - If growth is ≤ 0% for a few weeks → liquidity is tired → trim satellites, raise cash.
 
 - **On-chain stablecoin settlement (7D/28D)** – TRON/Solana/Ethereum.
   - Uptrend with price/volume → rails are healthy; stories can monetize.
@@ -78,7 +78,7 @@ These tell you when to add risk and when to cut back:
 
 ## Turn It Into a Simple Portfolio
 
-Same idea for tokens and stocks: own what **mints**, **routes**, and **amplifies** liquidity. Trade the rest.
+Same idea for tokens and stocks: own what mints, routes, and amplifies liquidity. Trade the rest.
 
 **Core (hold):**
 - **BTC / ETH** for structural beta and collateral.
@@ -115,15 +115,15 @@ Same idea for tokens and stocks: own what **mints**, **routes**, and **amplifies
 
 ## Why Most “Shells” Don’t Last (And How to Use Them)
 
-Hype projects are built to churn liquidity. They work—until they don’t. Treat them like **options**: time‑boxed, tied to a catalyst, and pre‑risked. The moment real usage or fees disappoint, assume exit liquidity is shrinking and move on. Your scarce resource is time.
+Hype projects are built to churn liquidity. They work—until they don’t. Treat them like options: time‑boxed, tied to a catalyst, and pre‑risked. The moment real usage or fees disappoint, assume exit liquidity is shrinking and move on. Your scarce resource is time.
 
 ---
 
 ## Scenarios to Keep in Mind
 
-- **Bull**: stablecoin supply up, settlement up, AI leaders making higher highs. Rails earn fees, brains compound, surfaces monetize. **Lean long beta** and sell some satellites into strength.
-- **Range**: flat supply, choppy settlement, mixed AI tape. **Barbell** core rails/brains with cash; treat satellites as trades.
-- **Risk‑off**: stablecoin supply down, settlement down, AI leaders break on volume. **Defend**—cut satellites, trim beta, and rotate to cash‑rich rails/brains or plain cash.
+- **Bull**: stablecoin supply up, settlement up, AI leaders making higher highs. Rails earn fees, brains compound, surfaces monetize. Lean long beta and sell some satellites into strength.
+- **Range**: flat supply, choppy settlement, mixed AI tape. Barbell core rails/brains with cash; treat satellites as trades.
+- **Risk‑off**: stablecoin supply down, settlement down, AI leaders break on volume. Defend — cut satellites, trim beta, and rotate to cash‑rich rails/brains or plain cash.
 
 ---
 
