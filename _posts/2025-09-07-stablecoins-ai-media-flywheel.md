@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Stablecoins, AI, and Media: Owning the Flywheel
+title: "Stablecoins, AI, and Media: Owning the Flywheel"
 tags: [stablecoins, ai, media, markets, portfolio]
 author: Linfeng (Daniel) Zhou
 ---
-
-# Stablecoins, AI, and Media: Owning the Flywheel
 
 The most underpriced story in markets today isn’t a shiny L2 or a viral app. It’s the quiet **engineering of dollar demand**—and how that demand is routed, absorbed, and amplified by **stablecoins, AI, and media**. Stablecoins push programmable dollars to the edge of the network; AI turns that liquidity into durable capability at the core; media points the hose by converting attention into orders. If you treat those three as one system rather than three trends, portfolio construction gets simpler, risk signals get clearer, and you stop paying tuition to every new shell.
 
