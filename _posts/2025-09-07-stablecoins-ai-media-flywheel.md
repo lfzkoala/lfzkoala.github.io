@@ -12,11 +12,11 @@ Think of it like a simple machine:
 2. AI turns those dollars into long-term tools: chips, models, and cloud.
 3. Media (social, search, video) points attention at what to buy or sell.
 
-If you view these three as one system, investing gets simpler. You can focus on owning what creates, routes, and amplifies liquidity—rather than guessing which short-term story wins.
+If you view these three as one system, investing gets simpler. You can focus on owning what creates, routes, and amplifies liquidity, rather than guessing which short-term story wins.
 
 ---
 
-## The Dollar Flywheel (Plain Version)
+## The Dollar Flywheel
 
 1. **Stablecoins** spread dollar rails worldwide. Every on-chain swap or payment adds a little more demand for USD.
 2. **More rails → more activity.** Better rails bring more users and more turnover.
@@ -28,35 +28,35 @@ This doesn’t mean prices only go up. It tells you where returns usually collec
 
 ---
 
-## Rails, Brains, Surfaces — In Simple Words
+## Rails, Brains, Surfaces
 
 ### Rails: Move the money
 
-* **Stablecoin networks and base chains** – internet-speed dollars for real payments, not just trading.
-* **Exchanges and on-ramps** – earn a fee whenever people transact.
-* **BTC/ETH** – core collateral and market beta.
+* **Stablecoin networks and base chains**: internet-speed dollars for real payments, not just trading.
+* **Exchanges and on-ramps**: earn a fee whenever people transact.
+* **BTC/ETH**: core collateral and market beta.
 
 When rails are strong, liquidity is real and trusted.
 
 ### Brains: Turn money into capability
 
-* **Chips and compute** – GPUs, networking, memory, power.
-* **Models and platforms** – cloud + foundation models that sell software and services.
-* **Decentralized compute/agents** – higher risk, higher potential.
+* **Chips and compute**: GPUs, networking, memory, power.
+* **Models and platforms**: cloud plus foundation models that sell software and services.
+* **Decentralized compute/agents**: higher risk, higher potential.
 
 Healthy brains let the system absorb more flows without breaking.
 
 ### Surfaces: Convert attention into orders
 
-* **Media platforms** – search, social, video, creator tools.
-* **Adtech and checkout** – turn views into measurable transactions.
-* **On-chain social/creator** – early signs of attention linking straight to settlement.
+* **Media platforms**: search, social, video, creator tools.
+* **Adtech and checkout**: turn views into measurable transactions.
+* **On-chain social/creator**: early signs of attention linking straight to settlement.
 
 Surfaces don’t just show markets; they move them.
 
 ---
 
-## Signals to Watch (Keep It Practical)
+## Signals to Watch
 
 These tell you when to add risk and when to cut back:
 
@@ -113,7 +113,7 @@ Same idea for tokens and stocks: own what mints, routes, and amplifies liquidity
 
 ---
 
-## Why Most “Shells” Don’t Last (And How to Use Them)
+## Why Most “Shells” Don’t Last
 
 Hype projects are built to churn liquidity. They work until they don’t. Treat them like options: time‑boxed, tied to a catalyst, and pre‑risked. The moment real usage or fees disappoint, assume exit liquidity is shrinking and move on. Your scarce resource is time.
 
