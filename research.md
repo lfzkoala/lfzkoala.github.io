@@ -8,6 +8,8 @@ Recently I start touching a bit about AI&crypto and post-quantum security resear
 
 ### Publication and Technical Report
 
+TEE-BFT: Pricing the Security of Data Center Execution Assurance [PDF](https://arxiv.org/abs/2510.26091)
+
 FROST in Kryptology at Coinbase [PDF](https://github.com/coinbase/kryptology/blob/master/docs/FROST_pseudocode_for_Coinbase_v2.pdf)
 
 Distributed Key Generation in Kryptology at Coinbase [PDF](https://github.com/coinbase/kryptology/blob/master/docs/GennaroDkg.pdf)
