@@ -3,28 +3,27 @@ layout: page
 title: Research
 ---
 
-My research interests mainly focus on secure multiparty computation, zero-knowledge proofs and blockchain. 
-Recently I start touching a bit about AI&crypto and post-quantum security research. 
+My research interests mainly focus on cryptography. 
 
 ### Publication and Technical Report
 
-TEE-BFT: Pricing the Security of Proof of Cloud [PDF](https://arxiv.org/abs/2510.26091)
+TEE-BFT: Pricing the Security of Proof of Cloud [link](https://arxiv.org/abs/2510.26091)
 
-FROST in Kryptology at Coinbase [PDF](https://github.com/coinbase/kryptology/blob/master/docs/FROST_pseudocode_for_Coinbase_v2.pdf)
+FROST in Kryptology at Coinbase [link](https://github.com/coinbase/kryptology/blob/master/docs/FROST_pseudocode_for_Coinbase_v2.pdf)
 
-Distributed Key Generation in Kryptology at Coinbase [PDF](https://github.com/coinbase/kryptology/blob/master/docs/GennaroDkg.pdf)
+Distributed Key Generation in Kryptology at Coinbase [link](https://github.com/coinbase/kryptology/blob/master/docs/GennaroDkg.pdf)
 
-Threshold ECDSA at Coinbase [PDF](https://github.com/coinbase/kryptology/blob/master/docs/Coinbase_Pseudocode_v5.pdf)
+Threshold ECDSA at Coinbase [link](https://github.com/coinbase/kryptology/blob/master/docs/Coinbase_Pseudocode_v5.pdf)
 
-Anonymous Lottery In the Proof-of-Stake Setting, with Varun Madathil, Foteini Baldimtsi and Alessandra Scafuro, IEEE Computer Security Foundations 2020 [PDF](https://eprint.iacr.org/2020/533.pdf)
+Anonymous Lottery In the Proof-of-Stake Setting, with Varun Madathil, Foteini Baldimtsi and Alessandra Scafuro, IEEE Computer Security Foundations 2020 [link](https://eprint.iacr.org/2020/533.pdf)
 
 A Framework for Anonymous Lottery-Based Protocols in the Proof-of-Stake Setting, with Varun Madathil, Foteini Baldimtsi and Alessandra Scafuro, Workshop on Privacy ENhancing Cryptography In Ledgers (PENCIL) associated with EUROCRYPT 2019. 
 
 Privately Mixing Identity and Reputation: Hardening the Blockchain to Make it Business-ready, with David W.Kravitz and Dulce Ponceleon. presented to IBM internal staff only, merged in [Hyperledger Protocol Specification](https://openblockchain.readthedocs.io/en/latest/protocol-spec/) 
 
-Collusion-Resistant Broadcast Encryption with Tight Reductions and Beyond, Linfeng Zhou, [PDF](https://eprint.iacr.org/2016/953) 
+Collusion-Resistant Broadcast Encryption with Tight Reductions and Beyond, Linfeng Zhou, [link](https://eprint.iacr.org/2016/953) 
 
-From Weakly Selective to Selective Security in Compact Functional Encryption, Revisited, Linfeng Zhou, [PDF](https://eprint.iacr.org/2016/848.pdf) 
+From Weakly Selective to Selective Security in Compact Functional Encryption, Revisited, Linfeng Zhou, [link](https://eprint.iacr.org/2016/848.pdf) 
 
 ### Blog Posts
 [Meet Kryptology: Coinbase’s Open Source Cryptography Library](https://www.cryptohopper.com/news/meet-kryptology-coinbase-s-open-source-cryptography-library-4992)
