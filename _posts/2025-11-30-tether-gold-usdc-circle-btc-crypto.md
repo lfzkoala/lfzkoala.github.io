@@ -5,7 +5,15 @@ date: 2025-11-30
 tags: [crypto, stablecoins, tether, usdc, circle, bitcoin, gold, ethereum]
 ---
 
-## When Tether Starts Hoarding Gold: How I Now Think About USDC, Circle, BTC and the Rest of Crypto
+
+### TL;DR
+
+- **Tether is building a hard‑asset treasury** (BTC + gold), pushing risk into its equity layer rather than pure T‑bills.
+- **S&P cut USDT to 5 “weak”**; “high risk” assets are ~24% of reserves while the equity buffer is ~3.9%.
+- **A ~30% BTC+gold drawdown** could roughly wipe that buffer, creating under‑collateralization risk under stress.
+- **Bullish for USDC/Circle**: the safer, boring design likely wins share with institutions in any wobble.
+- **BTC gets a structural bid** from Tether’s buying but also becomes a contagion channel for USDT shocks.
+- **ETH sells off in a crisis short‑term**, but benefits long‑term as regulated, USDC/RWA activity concentrates on Ethereum/L2s.
 
 Over the last few weeks my timeline has been full of two kinds of posts: screenshots of Tether’s latest reserve breakdown, and people dunking on USDT after S&P cut its stability score to the lowest possible level.
 
