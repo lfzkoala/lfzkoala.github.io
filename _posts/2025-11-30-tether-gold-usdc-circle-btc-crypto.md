@@ -7,29 +7,29 @@ tags: [crypto, stablecoins, tether, usdc, circle, bitcoin, gold, ethereum]
 
 ## When Tether Starts Hoarding Gold: How I Now Think About USDC, Circle, BTC and the Rest of Crypto
 
-Over the last few weeks my timeline has been full of two kinds of posts: screenshots of Tether’s latest reserve breakdown, and people dunking or doom-posting on USDT after S&P cut its stability score to the lowest possible level.
+Over the last few weeks my timeline has been full of two kinds of posts: screenshots of Tether’s latest reserve breakdown, and people dunking on USDT after S&P cut its stability score to the lowest possible level.
 
-The headline version is simple enough. S&P now rates USDT “5 – weak,” down from “4 – constrained,” explicitly because Tether keeps stuffing more Bitcoin, gold, secured loans and other risky assets into its reserve stack, while transparency remains mediocre at best.([Reuters][1])
+The headline version is simple enough. S&P now rates USDT “5 weak,” down from “4 constrained,” explicitly because Tether keeps stuffing more Bitcoin, gold, secured loans and other risky assets into its reserve stack, while transparency remains mediocre at best.([Reuters][1])
 
 At the same time, Jefferies and others estimate that Tether has quietly become a central-bank-sized gold whale. They put Tether’s physical gold holdings around 116 tonnes by the end of Q3 2025, roughly 14 billion dollars’ worth at recent prices, accounting for almost 2% of quarterly global gold demand and rivaling smaller sovereign reserves.([Reuters][2])
 
-If you add in the Bitcoin they hold on balance sheet, S&P says “high-risk” assets like BTC, gold, secured loans and corporate bonds now make up about 24% of Tether’s roughly 181 billion dollar reserve portfolio that backs about 174 billion USDT in circulation. Only 64% is in plain vanilla U.S. T-bills.([Financial Times][3])
+If you add in the Bitcoin they hold on balance sheet, S&P says “high risk” assets like BTC, gold, secured loans and corporate bonds now make up about 24% of Tether’s roughly 181 billion dollar reserve portfolio that backs about 174 billion USDT in circulation. Only 64% is in plain vanilla U.S. T-bills.([Financial Times][3])
 
-As someone who lives in crypto and thinks a lot about system-level risk, I’ve spent some time staring at those numbers and at Arthur Hayes’ stress-test thread. This post is just my own attempt to organize all of that into a coherent view: what Tether is really doing with gold, what it means for USDT holders, why I think this is structurally bullish for USDC and Circle, and how I’m updating my mental models for BTC, ETH and the rest of the ecosystem.
+As someone who lives in crypto and thinks a lot about system-level risk, this post is just my own attempt to organize all of that into a coherent view: what Tether is really doing with gold, what it means for USDT holders, why I think this is structurally bullish for USDC and Circle, and how I’m updating my mental models for BTC, ETH and the rest of the ecosystem.
 
 ### How I now understand Tether’s “gold + BTC” strategy
 
-Before these latest disclosures, the picture in my head was: Tether is basically a gigantic offshore money-market fund. It prints USDT, parks the dollars mostly in short-term Treasuries and repos, clips the yield and uses some of the profit for side bets and corporate adventures.
+Before these latest disclosures, the picture in my head was: Tether is basically a gigantic offshore money market fund. It prints USDT, parks the dollars mostly in short-term Treasuries and repos, clips the yield and uses some of the profit for side bets and corporate adventures.
 
 That’s no longer accurate enough.
 
-Based on the S&P and media breakdowns, the rough shape today looks more like this: around 75–76% of reserves in what S&P calls “high-quality liquid assets” (T-bills and Treasury-backed repos), and roughly 24% in riskier stuff, including about 5.6% in Bitcoin and a double-digit billions figure in physical gold, plus corporate bonds and secured loans.([Financial Times][3])
+Based on the S&P and media breakdowns, the rough shape today looks more like this: around 75–76% of reserves in what S&P calls “high quality liquid assets” (T-bills and Treasury-backed repos), and roughly 24% in riskier stuff, including about 5.6% in Bitcoin and a double-digit billions figure in physical gold, plus corporate bonds and secured loans.([Financial Times][3])
 
-In other words, Tether isn’t just clipping T-bill coupons. It is deliberately transforming the *equity layer* of its balance sheet into a hard-asset treasury. USDT is still mostly “backed by Treasuries,” but Tether’s own capital cushion is being deployed into BTC, gold and various yield-bearing risk assets.
+In other words, Tether isn’t just clipping T-bill coupons. It is deliberately transforming the *equity layer* of its balance sheet into a hard-asset treasury. USDT is still mostly backed by Treasuries, but Tether’s own capital cushion is being deployed into BTC, gold and various risk assets.
 
 There are obvious reasons why they’d do this.
 
-First, profitability. At 4–5% short-term rates, a 181 billion dollar reserve portfolio throws off an obscene amount of interest income. Even after costs, Tether is making multi-billion-dollar profits annually from the float alone. Rather than let all of that sit in cash or bills, they’re trying to turn it into a sovereign-style treasury of hard assets: Bitcoin as “digital gold,” physical bullion, and even equity stakes up and down the gold supply chain.([Kitco][4])
+First, profitability. At 4–5% short-term rates, a 181 billion dollar reserve portfolio throws off an obscene amount of interest income. Even after costs, Tether is making multi billion dollar profits annually from the float alone. Rather than let all of that sit in cash or bills, they’re trying to turn it into a sovereign-style treasury of hard assets: Bitcoin as digital gold, physical bullion, and even equity stakes up and down the gold supply chain.([Kitco][4])
 
 Second, macro and politics. The company is now headquartered in El Salvador and very openly skeptical of the U.S. regulatory regime. At the same time that Washington is passing laws like the GENIUS Act, which effectively ban regulated U.S. dollar stablecoins from using gold as backing, Tether is outside that perimeter, merrily buying bullion and Bitcoin anyway.([Reuters][2])
 
@@ -43,11 +43,11 @@ I don’t think that’s insane. But it has very specific consequences for anyon
 
 ### The uncomfortable arithmetic: how thin the USDT buffer really is
 
-S&P and several analyses all point to the same core fragility. Tether’s reported “excess reserves” — the equity cushion above the 1:1 backing of USDT — are around 3.9% of liabilities, roughly 6.8–7 billion dollars on that 174 billion USDT float.([Financial Times][3])
+S&P and several analyses all point to the same core fragility. Tether’s reported that the equity cushion above the 1:1 backing of USDT is around 3.9% of liabilities, roughly 6.8–7 billion dollars on that 174 billion USDT float.([Financial Times][3])
 
 Now compare that to the size of the BTC and gold positions. Across those sources, Bitcoin is about 5.6% of reserves on its own, and physical gold is now a comparable or larger chunk; together they are in the low twenties of billions of dollars.([Whale Alert][6])
 
-A simple back-of-the-envelope: if that combined BTC + gold bucket suffers something like a 30% drawdown, you’re looking at losses on the order of 6½–7 billion. That’s almost exactly the size of the current equity buffer.
+If that combined BTC + gold bucket suffers something like a 30% drawdown, you’re looking at losses on the order around 7 billion. That’s almost exactly the size of the current equity buffer.
 
 S&P basically says the quiet part out loud: Bitcoin alone now exceeds the overcollateralization margin, so a sufficiently nasty crypto crash could leave USDT undercollateralized unless Tether sells other assets in time.([Whale Alert][6])
 
@@ -55,7 +55,7 @@ That doesn’t mean USDT is technically insolvent today. It means the cushion be
 
 In that world, the exact GAAP accounting position almost doesn’t matter. People don’t redeem because they’ve read the footnotes; they redeem because they think everyone else is about to redeem.
 
-From my perspective, the right mental model for USDT after this S&P downgrade is not “it’s about to blow up,” but “it’s a structurally leveraged money-market fund whose equity is heavily invested in BTC and gold.” Day to day it will probably be fine. Under real stress, it can break in ways that a more boring, all-T-bill stablecoin cannot.
+From my perspective, the right mental model for USDT after this S&P downgrade is not “it’s about to blow up,” but “it’s a structurally leveraged money-market fund whose equity is heavily invested in BTC and gold.” Day to day it will probably be fine. Under real stress, it can break in ways that a more boring.
 
 ### Why this is quietly bullish for USDC and Circle
 
@@ -63,7 +63,7 @@ The other half of the S&P story is the relative scorecard. While USDT was cut to
 
 You don’t have to think USDC is perfect to see the contrast. One issuer is making an explicit macro bet, using its equity to buy Bitcoin, gold and opaque loans, and choosing to be regulated out of El Salvador. The other is basically trying to look as boring as a dollar money-market fund and live as close as possible to the U.S. financial system.
 
-In a “normal” world where nothing dramatic happens, this difference shows up slowly. More institutions choose USDC as their default on-chain dollar for regulated use cases — tokenized T-bills, RWA products, payment flows that touch banks and auditors. Tether continues to dominate the offshore, high-velocity trading and arbitrage universe. Market share gradually converges but USDT remains king for a long time.
+In a “normal” world where nothing dramatic happens, this difference shows up slowly. More institutions choose USDC as their default on-chain dollar for regulated use cases, e.g., tokenized T-bills, RWA products, payment flows that touch banks and auditors. Tether continues to dominate the offshore, high-velocity trading and arbitrage universe. Market share gradually converges but USDT remains king for a long time.
 
 In a world where USDT has a real wobble, the difference shows up all at once. Any serious depeg or regulatory hit to Tether would almost instantly trigger a flight to perceived safety. Some of that money would exit crypto entirely, but a large chunk would look for the “least bad” on-chain dollar, and today that is clearly USDC and a handful of bank-issued stablecoins.
 
