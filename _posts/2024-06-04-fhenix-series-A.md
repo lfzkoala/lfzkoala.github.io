@@ -7,6 +7,7 @@ thumbnail-img:
 share-img: 
 tags: [fully homomorphic encryption, ethereum, L2, crypto, investment]
 author: Linfeng (Daniel) Zhou
+published: false
 ---
 
 Today [Fhenix](https://www.fhenix.io/) announced its $15M [series A round](https://x.com/FhenixIO/status/1798028604212957326) led by Hack VC. Here is why I invest in Fhenix.  

@@ -7,6 +7,7 @@ thumbnail-img:
 share-img: 
 tags: [AI, Investment]
 author: Linfeng (Daniel) Zhou
+published: false
 ---
 
 Today Elon Musk's xAI announced its [new round of fundraising](https://www.wsj.com/tech/ai/elon-musks-xai-will-raise-6-billion-in-latest-fundraising-round-fcdd722d) and I'm happy to join and invest in this round with many renowned investors such as Sequoia and A16Z. I'd like to write an article reasoning why I invest in it. 
