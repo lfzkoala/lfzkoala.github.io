@@ -7,6 +7,7 @@ thumbnail-img:
 share-img: 
 tags: [crypto]
 author: Linfeng (Daniel) Zhou
+published: false
 ---
 
 Most of people entered and invested the crypto space with a simple goal: to make money. Especially in the secondary market, technical analysis methods and K-lines are the same everywhere; People go where the money is. For me, after securing basic needs, I hope crypto can grow larger, allowing more people to participate. It should become a long-term, valuable market like forex or commodities, something that can be operated as a business rather than a short-lived speculative arena.

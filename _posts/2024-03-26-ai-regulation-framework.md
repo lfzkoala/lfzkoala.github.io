@@ -6,6 +6,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [AI, Regulation, Technology]
 author: Linfeng (Daniel) Zhou
+published: false
 ---
 
 ![AI Regulation Framework](/assets/img/path.jpg)
