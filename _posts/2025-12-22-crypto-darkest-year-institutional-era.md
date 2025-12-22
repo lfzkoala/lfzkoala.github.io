@@ -1,3 +1,4 @@
+---
 layout: post
 title: "2025: Crypto’s Darkest Year, and the Dawn of the Institutional Era"
 tags: [crypto, bitcoin, etf, macro, institutions]
