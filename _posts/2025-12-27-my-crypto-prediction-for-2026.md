@@ -9,8 +9,10 @@ author: Linfeng (Daniel) Zhou
 
 #### Markets & price action
 
-- **BTC probably makes a new ATH in 2026, but the path is “grindy”**: fewer straight-line manias, more range trading and quiet institutional absorption.
-- **Near-term bounce → new ATH, then a multi-month drawdown**: I expect a bounce after several weeks based on the weekly chart, and that bounce likely tags a new ATH. After that, over a longer horizon (several months), I expect BTC to trade materially lower—base-case range **$50k–$60k**, and in a worse scenario **$40k–$50k**.
+- **BTC probably makes a new ATH in 2026, but the path is “grindy”**: I expect a bounce after several weeks based on the weekly chart, and that bounce likely tags a new ATH. After that, over a longer horizon (several months), I expect BTC to trade materially lower at range **$50k–$60k**, and in a worse scenario **$40k–$50k**. Fewer straight-line manias, more range trading and quiet institutional absorption.
+- **SOL likely rhymes with BTC (weekly bounce, monthly drawdown), but with bigger downside**: I expect Solana to bounce on the weekly timeframe and then draw down on the monthly timeframe. Compared to BTC, SOL likely sees a larger drawdown.
+- **I’m more bullish on ETH than BTC and SOL**: on the charts, ETH looks bullish on both the weekly and monthly timeframes. That said, ETH tends to carry higher volatility and more leverage, so the path higher will likely be even more “grindy” than BTC. It could dip lower first, then push higher.
+- **No more broad “alts go up together” season (and what I’d focus on instead)**: I don’t expect a classic, across-the-board alt season where everything pumps. Altcoin performance should become more selective and more tied to real fundamentals and execution. The “farm-and-dump” coins will likely either never recover or keep bleeding after listings—there are simply too many alts and limited liquidity. If anything works, I’d focus on projects that can bridge Web2 and Web3 and connect real-world rails to onchain rails—**RWA**, **tokenization**, **stablecoins**, **DeFi**, and related infrastructure. Because such projects are able to drive money from traditional finance. **Privacy** is also a theme worth watching. **Quantum computing** is another direction to track, but I’m not convinced it becomes a catalyst in 2026.
 
 <a href="/assets/img/btc-weekly-chart-12272025.png" target="_blank" rel="noopener">
   <img
@@ -29,7 +31,7 @@ author: Linfeng (Daniel) Zhou
 </a>
 
 
-- **BTC volatility keeps compressing and looks more macro-like**: a broader holder base + more passive/regulated flows = fewer extreme candles.
+- **BTC volatility keeps compressing and looks more macro-like**: a broader holder base + more passive and regulated flows = fewer extreme candles.
 - **The “4-year cycle” keeps weakening**: the halving still matters, but its marginal impact fades; rates and liquidity matter more.
 
 #### Institutions, regulation, and distribution
