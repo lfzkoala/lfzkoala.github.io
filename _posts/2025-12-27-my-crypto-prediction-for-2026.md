@@ -55,7 +55,7 @@ author: Linfeng (Daniel) Zhou
 
 ### My framework (why 2026 could feel different)
 
-In 2026, I think the “crypto story” shifts further from narratives to plumbing: access, distribution, regulation, and balance sheets.
+In 2026, I think the crypto story shifts further from narratives to plumbing: access, distribution, regulation, and balance sheets.
 
 - **Distribution flips from “crypto-native” to “portfolio-native”**: ETFs and other regulated wrappers make allocation feel normal, not niche.
 - **Regulation becomes a growth lever**: clearer rules push activity into compliant rails, which is exactly where banks/fintechs can participate.
