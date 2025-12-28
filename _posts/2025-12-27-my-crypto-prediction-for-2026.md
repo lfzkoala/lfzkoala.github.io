@@ -5,6 +5,8 @@ tags: [crypto, prediction]
 author: Linfeng (Daniel) Zhou
 ---
 
+*Not investment advice. Do your own research.*
+
 #### Markets & price action
 
 - **BTC probably makes a new ATH in 2026, but the path is grindy**: I expect a bounce after several weeks based on the weekly chart, and that bounce likely tags a new ATH. After that, over a longer horizon (after several months), I expect BTC to trade materially lower. Fewer straight-line manias, more range trading and quiet institutional absorption.
@@ -103,4 +105,3 @@ In 2026, I think the crypto story shifts further from narratives to plumbing: di
 
 Overall my bet is that 2026 is less about one narrative and more about compounding adoption via **distribution (ETFs)**, **rails (stablecoins + tokenization)**, and **execution (apps + agents)**.
 
-Not investment advice. Do your own research.
