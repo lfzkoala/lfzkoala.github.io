@@ -3,6 +3,7 @@ layout: post
 title: "My crypto prediction for 2026"
 tags: [crypto, prediction]
 author: Linfeng (Daniel) Zhou
+published: false
 ---
 
 #### Markets & price action
@@ -50,6 +51,7 @@ author: Linfeng (Daniel) Zhou
 #### Onchain apps (DeFi, prediction markets, AI)
 
 - **Productization beats protocol worship**: vaults/strategies/structured products (“ETFs 2.0”) grow AUM; prediction markets go more mainstream; AI agents become a real new source of transactions and payments.
+- **A crypto superapp emerges (wallet + trading + stablecoin payments + earn, in one UX)**: the winning app won’t feel like DeFi, it’ll feel like a modern fintech app where onchain is mostly invisible. The moat is combining distribution, compliance and great mobile UX, not governance tokens. I expect one or two players to bundle trading, payments, earn, and a lightweight app store of onchain actions. The constraint won’t be tech, it’ll be regulation, fraud and who can own the user relationship.
 
 
 
