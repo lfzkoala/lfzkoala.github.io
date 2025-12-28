@@ -12,11 +12,21 @@ author: Linfeng (Daniel) Zhou
 - **BTC probably makes a new ATH in 2026, but the path is “grindy”**: fewer straight-line manias, more range trading and quiet institutional absorption.
 - **Near-term bounce → new ATH, then a multi-month drawdown**: I expect a bounce after several weeks based on the weekly chart, and that bounce likely tags a new ATH. After that, over a longer horizon (several months), I expect BTC to trade materially lower—base-case range **$50k–$60k**, and in a worse scenario **$40k–$50k**.
 
-<img
-  src="/assets/img/btc-weekly-chart-12272025.png"
-  alt="BTC weekly chart"
-  style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0.75rem auto;"
-/>
+<a href="/assets/img/btc-weekly-chart-12272025.png" target="_blank" rel="noopener">
+  <img
+    src="/assets/img/btc-weekly-chart-12272025.png"
+    alt="BTC weekly chart (click to open full size)"
+    style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0.75rem auto;"
+  />
+</a>
+
+<a href="/assets/img/btc-monthly-chart-12272025.png" target="_blank" rel="noopener">
+  <img
+    src="/assets/img/btc-monthly-chart-12272025.png"
+    alt="BTC monthly chart (click to open full size)"
+    style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0.75rem auto;"
+  />
+</a>
 
 
 - **BTC volatility keeps compressing and looks more macro-like**: a broader holder base + more passive/regulated flows = fewer extreme candles.
