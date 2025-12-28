@@ -31,19 +31,19 @@ author: Linfeng (Daniel) Zhou
 </a>
 
 
-- **BTC volatility keeps compressing and looks more macro-like**: a broader holder base + more passive and regulated flows = fewer extreme candles.
+- **BTC volatility keeps compressing close to SP500/QQQ, and looks more macro-like**: a broader holder base + more passive and regulated flows = fewer extreme candles.
 - **The “4-year cycle” keeps weakening**: the halving still matters, but its marginal impact fades; rates and liquidity matter more.
 
 #### Institutions, regulation, and distribution
 
 - **The U.S. enters an “ETF expansion” era**: beyond BTC/ETH, more index, thematic, and yield-wrapped products become easy to buy.
-- **Market-structure clarity becomes a top catalyst**: once rules are clearer, banks/brokers/wealth platforms can distribute at scale.
-- **Flows beat vibes (at least in windows)**: net demand through regulated rails can outpace new supply, and pricing gets driven by flows more than retail mood.
+- **Market structure clarity becomes a top catalyst**: once rules are clearer, banks/brokers/wealth platforms can distribute at scale.
+- **Flows beat vibes**: net demand through regulated rails can outpace new supply, and pricing gets driven by flows more than retail mood.
 
-#### Infrastructure + corporatization (M&A, full-stack)
+#### Infrastructure and corporatization
 
-- **M&A stays hot and “full-stack platforms” consolidate share**: trading, custody, lending, settlement, compliance, and data get integrated into a smaller set of winners.
-- **Crypto equities improve on a relative basis**: clearer rules + broader product lines + consolidation improve business quality (more fintech/market-infra-like).
+- **M&A stays hot and full-stack platforms consolidate share**: trading, custody, lending, settlement, compliance, and data get integrated into a smaller set of winners.
+- **Crypto equities improve on a relative basis**: clearer rules, broader product lines and consolidation will improve business quality.
 
 #### Stablecoins & payments
 
