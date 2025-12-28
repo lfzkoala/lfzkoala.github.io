@@ -13,7 +13,7 @@ author: Linfeng (Daniel) Zhou
 - **Near-term bounce → new ATH, then a multi-month drawdown**: I expect a bounce after several weeks based on the weekly chart, and that bounce likely tags a new ATH. After that, over a longer horizon (several months), I expect BTC to trade materially lower—base-case range **$50k–$60k**, and in a worse scenario **$40k–$50k**.
 
 <img
-  src="{{ '/assets/img/btc-weekly-chart-12272025.png' | relative_url }}"
+  src="/assets/img/btc-weekly-chart-12272025.png"
   alt="BTC weekly chart"
   style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0.75rem auto;"
 />
