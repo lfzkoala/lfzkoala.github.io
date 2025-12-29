@@ -1,0 +1,71 @@
+{% comment %}
+  Reusable CTA block.
+
+  Defaults come from _config.yml:
+    site.cta.enabled, site.cta.title, site.cta.body
+    site.cta.primary_text, site.cta.primary_url, site.cta.primary_new_tab
+    site.cta.secondary_text, site.cta.secondary_url, site.cta.secondary_new_tab
+
+  Backwards compatible with older keys:
+    site.cta.button_text, site.cta.url
+
+  Per-post overrides via front matter:
+    cta: false
+    cta_title, cta_body
+    cta_primary_text, cta_primary_url, cta_primary_new_tab
+    cta_secondary_text, cta_secondary_url, cta_secondary_new_tab
+
+  Backwards compatible per-post keys:
+    cta_button_text, cta_url
+{% endcomment %}
+
+{% assign cta_enabled = true %}
+{% if site.cta and site.cta.enabled == false %}
+  {% assign cta_enabled = false %}
+{% endif %}
+{% if page.cta == false %}
+  {% assign cta_enabled = false %}
+{% endif %}
+
+{% if cta_enabled %}
+  {% assign cta_title = page.cta_title | default: site.cta.title | default: "Get in touch" %}
+  {% assign cta_body = page.cta_body | default: site.cta.body | default: "Want to chat?" %}
+
+  {% assign cta_primary_text = page.cta_primary_text | default: site.cta.primary_text | default: page.cta_button_text | default: site.cta.button_text | default: "Subscribe" %}
+  {% assign cta_primary_url = page.cta_primary_url | default: site.cta.primary_url | default: page.cta_url | default: site.cta.url | default: "/aboutme" %}
+  {% assign cta_primary_new_tab = page.cta_primary_new_tab | default: site.cta.primary_new_tab | default: false %}
+
+  {% assign cta_secondary_text = page.cta_secondary_text | default: site.cta.secondary_text | default: "" %}
+  {% assign cta_secondary_url = page.cta_secondary_url | default: site.cta.secondary_url | default: "" %}
+  {% assign cta_secondary_new_tab = page.cta_secondary_new_tab | default: site.cta.secondary_new_tab | default: false %}
+
+  <section class="post-cta" aria-label="Call to action">
+    <div class="post-cta__inner">
+      {% if cta_title and cta_title != "" %}
+        <h3 class="post-cta__title">{{ cta_title }}</h3>
+      {% endif %}
+
+      {% if cta_body and cta_body != "" %}
+        <p class="post-cta__body">{{ cta_body }}</p>
+      {% endif %}
+
+      <div class="post-cta__actions">
+        {% if cta_primary_url and cta_primary_url != "" %}
+          <a class="post-cta__button post-cta__button--primary"
+             href="{{ cta_primary_url | relative_url }}"
+             {% if cta_primary_new_tab %}target="_blank" rel="noopener"{% endif %}>
+            {{ cta_primary_text }}
+          </a>
+        {% endif %}
+
+        {% if cta_secondary_url and cta_secondary_url != "" and cta_secondary_text and cta_secondary_text != "" %}
+          <a class="post-cta__button post-cta__button--secondary"
+             href="{{ cta_secondary_url | relative_url }}"
+             {% if cta_secondary_new_tab %}target="_blank" rel="noopener"{% endif %}>
+            {{ cta_secondary_text }}
+          </a>
+        {% endif %}
+      </div>
+    </div>
+  </section>
+{% endif %}

@@ -151,6 +151,27 @@ footer-hover-col: "#0085A1"
 #site-css:
 #  - "/assets/css/custom-styles.css"
 
+# Site-wide CTA defaults (used by `_includes/cta.html`)
+cta:
+  enabled: true
+  title: "Want to connect?"
+  body: "If you liked this post, I share more on crypto, markets, and startups."
+  # New (two-button) CTA
+  primary_text: "Subscribe"
+  primary_url: "/aboutme"
+  primary_new_tab: false
+  secondary_text: "Consult / Book a call"
+  secondary_url: "/aboutme"
+  secondary_new_tab: false
+
+  # Backwards-compatible (single button) keys
+  button_text: "Go to the CTA page"
+  url: "/aboutme"
+
+# Include CTA styles on all pages
+site-css:
+  - "/assets/css/cta.css"
+
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
 #  - "/assets/js/custom-script.js"

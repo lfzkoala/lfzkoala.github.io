@@ -3,6 +3,13 @@ layout: post
 title: "My crypto prediction for 2026"
 tags: [crypto, prediction]
 author: Linfeng (Daniel) Zhou
+
+# Optional CTA controls
+# cta: false
+# cta_title: "Want more like this?"
+# cta_body: "Subscribe / book a chat / check my research."
+# cta_button_text: "Call to action"
+# cta_url: "/aboutme"
 ---
 
 *Not investment advice. Do your own research.*
