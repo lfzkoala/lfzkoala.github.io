@@ -10,4 +10,8 @@ ehthumbs.db
 
 Gemfile.lock
 
+# Bundler / local Ruby environment artifacts
+.bundle/
+vendor/
+
 beautiful-jekyll-theme-*.gem
