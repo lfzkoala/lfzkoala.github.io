@@ -6,6 +6,12 @@ permalink: /book/
 
 If you want to chat, book a time that works for you.
 
+### Pay first (Stripe)
+
+- **Pay $100:** <https://buy.stripe.com/4gMbJ033qghTcqb6gVaEE00>
+
+After you pay, book a time here:
+
 ### Quick chat (Calendly)
 
 Book here:
