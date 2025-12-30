@@ -31,7 +31,7 @@
   {% assign cta_title = page.cta_title | default: site.cta.title | default: "Get in touch" %}
   {% assign cta_body = page.cta_body | default: site.cta.body | default: "Want to chat?" %}
 
-  {% assign cta_primary_text = page.cta_primary_text | default: site.cta.primary_text | default: page.cta_button_text | default: site.cta.button_text | default: "Subscribe" %}
+  {% assign cta_primary_text = page.cta_primary_text | default: site.cta.primary_text | default: page.cta_button_text | default: site.cta.button_text | default: "" %}
   {% assign cta_primary_url = page.cta_primary_url | default: site.cta.primary_url | default: page.cta_url | default: site.cta.url | default: "/aboutme" %}
   {% assign cta_primary_new_tab = page.cta_primary_new_tab | default: site.cta.primary_new_tab | default: false %}
 
