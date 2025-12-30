@@ -4,29 +4,20 @@ title: Book a call
 permalink: /book/
 ---
 
-If you want to chat, book a time that works for you.
+If you want to chat, use the flow below.
 
-### Pay first (Stripe)
+## 1) Pay (Stripe)
 
-- **Pay $100:** <https://buy.stripe.com/4gMbJ033qghTcqb6gVaEE00>
+<a class="post-cta__button post-cta__button--primary" href="https://buy.stripe.com/4gMbJ033qghTcqb6gVaEE00" target="_blank" rel="noopener">Pay $100</a>
 
-After you pay, book a time here:
+## 2) Book a time (Calendly)
 
-### Quick chat (Calendly)
+After payment, pick a time here:
 
-Book here:
+<a class="post-cta__button post-cta__button--secondary" href="https://calendly.com/daniel-linfeng-zhou/quick-chat-1" target="_blank" rel="noopener">Book on Calendly</a>
 
-- **Calendly:** <https://calendly.com/daniel-linfeng-zhou/quick-chat-1>
+## Support / fallback
 
-If the link doesn’t open for any reason, you can also email me:
+If you have any trouble with payment or booking, email me:
 
 - **Email:** [{{ site.social-network-links.email | default: "email me" }}](mailto:{{ site.social-network-links.email }})
-
-### Optional: paid consults
-If you want to charge for calls, the simplest static-friendly setup is:
-
-1. Create a **Stripe Payment Link** for “30-min consult” / “60-min consult”
-2. Put that Payment Link on this page (or make it the primary CTA)
-3. After payment, redirect users to your Calendly/Cal.com booking page
-
-Tell me which booking tool and whether you want paid calls, and I’ll update this page with the real links + wording.
