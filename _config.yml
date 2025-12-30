@@ -157,10 +157,10 @@ cta:
   title: "Want to connect?"
   body: "If you liked this post, I share more on crypto, markets, and startups."
   # New (two-button) CTA
-  primary_text: "Subscribe"
-  primary_url: "/subscribe/"
+  primary_text: ""
+  primary_url: ""
   primary_new_tab: false
-  secondary_text: "Pay & book a call"
+  secondary_text: "Book a call"
   secondary_url: "/book/"
   secondary_new_tab: true
 
