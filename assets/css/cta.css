@@ -1,5 +1,7 @@
 .post-cta {
   margin: 2.25rem 0 1.5rem;
+  position: relative;
+  z-index: 2;
 }
 
 .post-cta__inner {
@@ -34,6 +36,9 @@
   color: #ffffff;
   text-decoration: none;
   font-weight: 600;
+  position: relative;
+  z-index: 3;
+  pointer-events: auto;
 }
 
 .post-cta__button--secondary {
