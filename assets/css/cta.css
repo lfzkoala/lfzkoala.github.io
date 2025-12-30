@@ -42,9 +42,9 @@
 }
 
 .post-cta__button--secondary {
-  background: transparent;
-  border-color: rgba(0, 138, 255, 0.35);
-  color: #008aff;
+  background: #008aff;
+  border-color: transparent;
+  color: #ffffff;
 }
 
 .post-cta__button:hover {
@@ -54,9 +54,9 @@
 }
 
 .post-cta__button--secondary:hover {
-  background: rgba(0, 138, 255, 0.08);
-  border-color: rgba(0, 138, 255, 0.55);
-  color: #0074d6;
+  background: #0074d6;
+  border-color: transparent;
+  color: #ffffff;
 }
 
 @media (max-width: 576px) {

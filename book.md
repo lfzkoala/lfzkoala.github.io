@@ -4,17 +4,17 @@ title: Book a call
 permalink: /book/
 ---
 
-If you want to chat, use the flow below.
+If you want to chat, book a time first — then I’ll ask you to complete payment.
 
-## 1) Pay (Stripe)
+## 1) Book a time (Calendly)
 
-<a class="post-cta__button post-cta__button--primary" href="https://buy.stripe.com/4gMbJ033qghTcqb6gVaEE00" target="_blank" rel="noopener">Pay $100</a>
+<a class="post-cta__button post-cta__button--primary" href="https://calendly.com/daniel-linfeng-zhou/quick-chat-1" target="_blank" rel="noopener">Book on Calendly</a>
 
-## 2) Book a time (Calendly)
+## 2) Pay (Stripe)
 
-After payment, pick a time here:
+After booking, please complete payment here:
 
-<a class="post-cta__button post-cta__button--secondary" href="https://calendly.com/daniel-linfeng-zhou/quick-chat-1" target="_blank" rel="noopener">Book on Calendly</a>
+<a class="post-cta__button post-cta__button--secondary" href="https://buy.stripe.com/4gMbJ033qghTcqb6gVaEE00" target="_blank" rel="noopener">Pay</a>
 
 ## Support / fallback
 
