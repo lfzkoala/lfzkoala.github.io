@@ -164,9 +164,7 @@ cta:
   secondary_url: "/book/"
   secondary_new_tab: true
 
-  # Backwards-compatible (single button) keys
-  button_text: "Go to the CTA page"
-  url: "/aboutme"
+
 
 # Include CTA styles on all pages
 site-css:

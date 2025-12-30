@@ -50,7 +50,7 @@
       {% endif %}
 
       <div class="post-cta__actions">
-        {% if cta_primary_url and cta_primary_url != "" %}
+        {% if cta_primary_url and cta_primary_url != "" and cta_primary_text and cta_primary_text != "" %}
           <a class="post-cta__button post-cta__button--primary"
              href="{{ cta_primary_url | relative_url }}"
              {% if cta_primary_new_tab %}target="_blank" rel="noopener"{% endif %}>
