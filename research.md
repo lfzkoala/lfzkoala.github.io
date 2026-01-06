@@ -11,6 +11,8 @@ Building Native Privacy for Real-World Blockchain Adoption [link](https://www.ri
 
 TEE-BFT: Pricing the Security of Proof of Cloud [link](https://arxiv.org/abs/2510.26091)
 
+XMTP secure messaging and group chat [link](https://blog.xmtp.org/xmtp-built-with-mls/)
+
 FROST in Kryptology at Coinbase [link](https://github.com/coinbase/kryptology/blob/master/docs/FROST_pseudocode_for_Coinbase_v2.pdf)
 
 Distributed Key Generation in Kryptology at Coinbase [link](https://github.com/coinbase/kryptology/blob/master/docs/GennaroDkg.pdf)
