@@ -8,7 +8,7 @@ tags: [AI, Crypto, Investing]
 author: Linfeng (Daniel) Zhou
 ---
 
-Many group chats have become quiet lately, barely reaching 100+ messages daily. While I'm not pessimistic short-term and see opportunity in the March-May window, my strategy is: buy heavily on large dips, avoid small/gradual dips, DCA during post-dip sideways consolidation with low volume, add positions on upward breakouts, and stop-loss on downward breaks. Focus on Ethereum infrastructure and oversold AI agents. DCA Bitcoin below $8.8k, build positions after March dips, take profit May. This warning is for market conditions after May and applies to regular investors only, except big whales, scientists, on-chain analysts, or crypto elite.
+Many group chats have become quiet lately, barely reaching 100+ messages daily. While I'm not pessimistic short-term and see opportunity in the March-May window, my strategy is: buy heavily on large dips, avoid small/gradual dips, DCA during post-dip sideways consolidation with low volume, add positions on upward breakouts, and stop-loss on downward breaks. Focus on Ethereum infrastructure and oversold AI agents. DCA Bitcoin below $88k, build positions after March dips, take profit May. This warning is for market conditions after May and applies to regular investors only, except big whales, scientists, on-chain analysts, or crypto elite.
 
 **[Core View]**: The industry is no longer suitable for 80%+ retail investors. Recommend cashing out most positions or converting to USDT savings after March-May.
 
