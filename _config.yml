@@ -164,8 +164,6 @@ cta:
   secondary_url: "/book/"
   secondary_new_tab: true
 
-
-
 # Include CTA styles on all pages
 site-css:
   - "/assets/css/cta.css"

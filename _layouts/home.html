@@ -4,6 +4,10 @@ layout: page
 
 {{ content }}
 
+<div style="margin: 0.75rem 0 1.25rem; padding: 0.75rem 1rem; border: 1px solid #e6e6e6; border-radius: 10px; background: #fafafa; color: #666; font-size: 0.95rem; line-height: 1.35;">
+  <strong>Disclaimer:</strong> All posts reflect my personal views only.
+</div>
+
 {% assign posts = paginator.posts | default: site.posts %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
