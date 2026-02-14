@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-I'm a cryptographer.
+I'm a cryptographer. Bring crypto to main stream via privacy. 
 
 I'm an investor in crypto, AI and quantum/post-quantum computing. 
 
