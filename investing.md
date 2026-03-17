@@ -3,23 +3,23 @@ layout: page
 title: Investing
 ---
 
-### Before Pitching
+I focus on crypto, AI, security and quantum. These are the domains where I can add the most value beyond capital.
 
-We usually receive tons of pitching emails. In case we miss your great ideas, please kindly prepare a commentable document (e.g., google doc) with the answers to the following before reaching out: 
+### Portfolio
+My recent portfolio (since 2022) includes 
+- xAI (Series B, acquired by SpaceX)
+- Solana (FTX auction)
+- Exo Labs
+- Morpho Labs
+- Fhenix
 
-- What is the mission of your company?
-- What specific issue are you addressing?
-- What solution are you offering to tackle this issue?
-- Why is now the right time to start this company?
-- What is your revenue model?
-- Who are the members of your team?
-- What is your fundraising goal?
-- Do you have a lead investor already committed?
+...and several other early-stage startups in crypto, AI and security.
 
-<!-- ### Investing via Pepper Ventures. 
-We carefully review every pitching we received in many different fields. If you'd like to pitch with us, please send your commentable document to our official email [info@hercules.global](info@hercules.global) or [daniel.zhou@hercules.global](daniel.zhou@hercules.global).  -->
+My earlier investments include ZCash, Algorand, Cosmos, Tezos, Gala Games, LooksRare and many others.
 
-### Angel Investing
-I wrote my first investment check in 2014 and I'm happy to invest in innovative ideas. Since I'm a cryptographer, I'm extremely excited to talk about new ideas based on cryptography or cryptographer founders. Additionally, if you have worked with me in industry (e.g., Coinbase, Hyperledger, Google .etc) or someone else who has worked with me referred you, then I'm open to chatting. If you'd like to pitch with me for angel investing, please send your email to [daniel.linfeng.zhou@gmail.com](daniel.linfeng.zhou@gmail.com). 
+### Individual Investing
+I'm angel investing startups, family office and venture capital firms. Reach out to me at [majiakoala@gmail.com](majiakoala@gmail.com).
 
+### Investing via Pepper Ventures
+I co-founded Pepper Ventures investing in crypto and an active SPAC sponsor. Reach out to us via [info@hercules.global](info@hercules.global) or [daniel.zhou@hercules.global](daniel.zhou@hercules.global).
 
