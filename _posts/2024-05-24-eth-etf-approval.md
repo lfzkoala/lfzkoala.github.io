@@ -7,6 +7,7 @@ thumbnail-img:
 share-img: 
 tags: [crypto, ethereum, regulation]
 author: Linfeng (Daniel) Zhou
+published: false
 ---
 
 ### The Approval of the Ethereum (ETH) Spot ETF: A New Milestone in Crypto Regulation

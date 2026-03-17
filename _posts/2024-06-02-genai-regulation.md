@@ -7,6 +7,7 @@ thumbnail-img:
 share-img: 
 tags: [security, regulation, GenAI]
 author: Linfeng (Daniel) Zhou
+published: false
 ---
 
 Generative AI (GenAI) stands at the forefront of technological innovation, promising transformative changes across various sectors. However, this rapid advancement comes with significant challenges, particularly in the realm of regulation and safety. As we delve into the complexities of governing GenAI, it becomes clear that a multifaceted approach involving international coordination, stakeholder engagement, and interdisciplinary collaboration is crucial.

@@ -7,6 +7,7 @@ thumbnail-img:
 share-img: 
 tags: [crypto, bitcoin]
 author: Linfeng (Daniel) Zhou
+published: false
 ---
 
 Recently, there's been a trend suggesting that value coins are worthless and that meme coins represent the future.
