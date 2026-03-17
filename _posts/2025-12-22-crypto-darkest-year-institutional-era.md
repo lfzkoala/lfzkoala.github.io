@@ -49,7 +49,7 @@ That resilience is difficult to explain without acknowledging a new class of buy
 
 While institutions were accumulating through ETFs and large channels, retail indicators weakened. Active addresses trended down, Google searches for “Bitcoin” fell to an 11 month low, small transaction volumes dropped sharply, and large transactions increased. One estimate suggests retail net sold about 247,000 BTC in 2025, roughly $23 billion.
 
-This is the clearest picture of the handoff. Retail sold into boredom and fear. (See my previous analysis: [Why I recommend retail investors leaving crypto]({% post_url 2025-02-20-cryptofud %})) Institutions bought into range bound price action.
+This is the clearest picture of the handoff. Retail sold into boredom and fear. (See my previous analysis: *Why I recommend retail investors leaving crypto*) Institutions bought into range bound price action.
 
 ### The second conclusion: this is accumulation, not a blow off top
 
