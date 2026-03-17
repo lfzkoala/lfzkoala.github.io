@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-I'm a cryptographer building at the intersection of cryptography, blockchain and AI. My mission is to bring crypto to the mainstream through privacy.
+I'm a cryptographer building at the intersection of cryptography and blockchain with help of my many AI agents. My mission is to bring crypto to the mainstream through privacy.
 
 ### What I Do
 
