@@ -15,7 +15,7 @@ My recent portfolio (since 2022) includes
 
 ...and several other early-stage startups in crypto, AI and security.
 
-My earlier investments include ZCash, Algorand, Cosmos, Tezos, Gala Games, LooksRare and many others.
+Previously I only invested crypto, including ZCash, Algorand, Cosmos, Tezos, Gala Games, LooksRare and others.
 
 ### Individual Investing
 I'm angel investing startups, family office and venture capital firms. Reach out to me at [majiakoala@gmail.com](majiakoala@gmail.com).

@@ -3,11 +3,7 @@ layout: page
 title: Research
 ---
 
-My research interests mainly focus on cryptography. 
-
 ### Publication and Technical Report
-
-Building Native Privacy for Real-World Blockchain Adoption [link](https://www.rialo.io/posts/building-native-privacy-for-real-world-blockchain-adoption)
 
 TEE-BFT: Pricing the Security of Proof of Cloud [link](https://arxiv.org/abs/2510.26091)
 
