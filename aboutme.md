@@ -17,7 +17,7 @@ I founded [Fertile Fields Labs](https://fertilefieldslabs.xyz/) and am actively 
 
 ### Writing
 
-I write about crypto markets, AI and investing on this blog and on [Medium](https://medium.com/@daniel.linfeng.zhou). A personal favorite: [How I survived in crypto](https://medium.com/@daniel.linfeng.zhou/written-on-the-occasion-of-bitcoins-fourth-halving-452605a874da).
+I write about cryptography, crypto markets, AI and investing on this blog and on [Medium](https://medium.com/@daniel.linfeng.zhou). A personal favorite: [How I survived in crypto](https://medium.com/@daniel.linfeng.zhou/written-on-the-occasion-of-bitcoins-fourth-halving-452605a874da).
 
 
 
