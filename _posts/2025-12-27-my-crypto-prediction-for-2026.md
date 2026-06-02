@@ -3,6 +3,7 @@ layout: post
 title: "My crypto prediction for 2026"
 tags: [crypto, prediction]
 author: Linfeng (Daniel) Zhou
+published: false
 
 # Optional CTA controls
 # cta: false
