@@ -5,7 +5,7 @@ title: Research
 
 ### Publication
 
-TEE-BFT: Pricing the Security of Proof of Cloud [link](https://arxiv.org/abs/2510.26091)
+TEE-BFT: Pricing the Security of Proof of Cloud, with Alex Sharmis and Matt Stephenson [link](https://arxiv.org/abs/2510.26091)
 
 Anonymous Lottery In the Proof-of-Stake Setting, with Varun Madathil, Foteini Baldimtsi and Alessandra Scafuro, IEEE Computer Security Foundations 2020 [link](https://eprint.iacr.org/2020/533.pdf)
 
