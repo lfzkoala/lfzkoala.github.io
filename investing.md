@@ -3,23 +3,20 @@ layout: page
 title: Investing
 ---
 
-I focus on crypto, AI, security and quantum. These are the domains where I can add the most value beyond capital.
-
-I'm investing startups, family office and venture capital firms. 
+I started investing in 2015. Recently I focus on crypto, AI and quantum. These are the domains where I can add the most value beyond capital.
 
 Email: majiakoala@gmail dot com
 
-<!-- ### Portfolio
-My recent portfolio (since 2022) includes 
+### Portfolio
+
+My recent portfolio includes 
 - xAI (Series B, acquired by SpaceX)
 - Solana (FTX auction)
 - Exo Labs
 - Morpho Labs
 - Fhenix
 
-...and several other early-stage startups in crypto, AI and security.
-
-Previously I only invested crypto, including ZCash, Algorand and others. -->
+...and many other startups. 
 
 <!-- ### Individual Investing
 I'm investing startups, family office and venture capital firms. Reach out to me at [majiakoala@gmail.com](majiakoala@gmail.com). -->
