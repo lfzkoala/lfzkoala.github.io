@@ -5,23 +5,25 @@ title: Research
 
 ## Publication
 
+(Authors are listed in alphabetical order by last name)
+
 1. **CATP: Design and Evaluation of Local Agent Authorization and Audit Evidence**
    Linfeng Zhou · [arXiv](https://arxiv.org/abs/2609.38223)
 
 2. **TEE-BFT: Pricing the Security of Proof of Cloud**
-   with Alex Sharmis and Matt Stephenson · *Columbia CryptoEconomics (CCE) Workshop 2025* · [arXiv](https://arxiv.org/abs/2510.26091)
+   Alex Sharmis, Matt Stephenson, Linfeng Zhou · *Columbia CryptoEconomics (CCE) Workshop 2025* · [arXiv](https://arxiv.org/abs/2510.26091)
 
 3. **Anonymous Lottery in the Proof-of-Stake Setting**
-   with Varun Madathil, Foteini Baldimtsi and Alessandra Scafuro · *IEEE Computer Security Foundations 2020* · [paper](https://eprint.iacr.org/2020/533.pdf)
+   Foteini Baldimtsi, Varun Madatil, Alessandra Scafuro, Linfeng Zhou · *IEEE Computer Security Foundations 2020* · [paper](https://eprint.iacr.org/2020/533.pdf)
 
 4. **A Framework for Anonymous Lottery-Based Protocols in the Proof-of-Stake Setting**
-   with Varun Madathil, Foteini Baldimtsi and Alessandra Scafuro · *Workshop on Privacy ENhancing Cryptography In Ledgers (PENCIL), associated with EUROCRYPT 2019*
+   Foteini Baldimtsi, Varun Madathil, Alessandra Scafuro, Linfeng Zhou · *Workshop on Privacy ENhancing Cryptography In Ledgers (PENCIL), associated with EUROCRYPT 2019*
 
 5. **Collusion-Resistant Broadcast Encryption with Tight Reductions and Beyond**
-   Linfeng Zhou · [paper](https://eprint.iacr.org/2016/953)
+   Linfeng Zhou · [preprint](https://eprint.iacr.org/2016/953)
 
 6. **From Weakly Selective to Selective Security in Compact Functional Encryption, Revisited**
-   Linfeng Zhou · [paper](https://eprint.iacr.org/2016/848.pdf)
+   Linfeng Zhou · [preprint](https://eprint.iacr.org/2016/848.pdf)
 
 ## Technical Report
 
@@ -30,7 +32,7 @@ title: Research
 - **Threshold ECDSA at Coinbase** · [PDF](https://github.com/coinbase/kryptology/blob/master/docs/Coinbase_Pseudocode_v5.pdf)
 - **Firo Lelantus Spark Audit Report** · [PDF](https://firo.org/about/research/papers/LinfengSparkAudit.pdf)
 - **Privately Mixing Identity and Reputation: Hardening the Blockchain to Make it Business-ready**
-  with David W. Kravitz and Dulce Ponceleon · presented to IBM internal staff only, merged in [Hyperledger Protocol Specification](https://openblockchain.readthedocs.io/en/latest/protocol-spec/)
+  David W. Kravitz, Dulce Ponceleon, Linfeng Zhou · [Hyperledger Protocol Specification](https://openblockchain.readthedocs.io/en/latest/protocol-spec/)
 
 ## Company Blog Posts
 
