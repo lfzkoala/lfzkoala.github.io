@@ -11,11 +11,16 @@ title: Research
    Linfeng Zhou · [arXiv](https://arxiv.org/abs/2609.38223)
 
 2. **TEE-BFT: Pricing the Security of Proof of Cloud**
-   Alex Sharmis, Matt Stephenson, Linfeng Zhou · *Columbia CryptoEconomics (CCE) Workshop 2025* · [arXiv](https://arxiv.org/abs/2510.26091)
+   Alex Sharmis, Matt Stephenson, Linfeng Zhou 
+   
+   *Columbia CryptoEconomics (CCE) Workshop 2025* 
+   [arXiv](https://arxiv.org/abs/2510.26091)
 
 3. **Anonymous Lottery in the Proof-of-Stake Setting**
    Foteini Baldimtsi, Varun Madatil, Alessandra Scafuro, Linfeng Zhou 
+   
    *IEEE Computer Security Foundations 2020* 
+   
    *Workshop on Privacy ENhancing Cryptography In Ledgers (PENCIL), associated with EUROCRYPT 2019*
    [paper](https://eprint.iacr.org/2020/533.pdf)
 
