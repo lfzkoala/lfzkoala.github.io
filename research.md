@@ -14,15 +14,15 @@ title: Research
    Alex Sharmis, Matt Stephenson, Linfeng Zhou · *Columbia CryptoEconomics (CCE) Workshop 2025* · [arXiv](https://arxiv.org/abs/2510.26091)
 
 3. **Anonymous Lottery in the Proof-of-Stake Setting**
-   Foteini Baldimtsi, Varun Madatil, Alessandra Scafuro, Linfeng Zhou · *IEEE Computer Security Foundations 2020* · [paper](https://eprint.iacr.org/2020/533.pdf)
+   Foteini Baldimtsi, Varun Madatil, Alessandra Scafuro, Linfeng Zhou 
+   *IEEE Computer Security Foundations 2020* 
+   *Workshop on Privacy ENhancing Cryptography In Ledgers (PENCIL), associated with EUROCRYPT 2019*
+   [paper](https://eprint.iacr.org/2020/533.pdf)
 
-4. **A Framework for Anonymous Lottery-Based Protocols in the Proof-of-Stake Setting**
-   Foteini Baldimtsi, Varun Madathil, Alessandra Scafuro, Linfeng Zhou · *Workshop on Privacy ENhancing Cryptography In Ledgers (PENCIL), associated with EUROCRYPT 2019*
-
-5. **Collusion-Resistant Broadcast Encryption with Tight Reductions and Beyond**
+4. **Collusion-Resistant Broadcast Encryption with Tight Reductions and Beyond**
    Linfeng Zhou · [preprint](https://eprint.iacr.org/2016/953)
 
-6. **From Weakly Selective to Selective Security in Compact Functional Encryption, Revisited**
+5. **From Weakly Selective to Selective Security in Compact Functional Encryption, Revisited**
    Linfeng Zhou · [preprint](https://eprint.iacr.org/2016/848.pdf)
 
 ## Technical Report
