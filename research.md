@@ -7,23 +7,28 @@ title: Research
 
 (Authors are listed in alphabetical order by last name)
 
-1. **CATP: Design and Evaluation of Local Agent Authorization and Audit Evidence**
-   Linfeng Zhou · [arXiv](https://arxiv.org/abs/2609.38223)
+1. **CATP: Design and Evaluation of Local Agent Authorization and Audit Evidence**<br>
+   Linfeng Zhou<br>
+   [arXiv](https://arxiv.org/abs/2609.38223)
 
-2. **TEE-BFT: Pricing the Security of Proof of Cloud**
-   Alex Sharmis, Matt Stephenson, Linfeng Zhou
-   *Columbia CryptoEconomics (CCE) Workshop 2025* · [arXiv](https://arxiv.org/abs/2510.26091)
+2. **TEE-BFT: Pricing the Security of Proof of Cloud**<br>
+   Alex Sharmis, Matt Stephenson, Linfeng Zhou<br>
+   *Columbia CryptoEconomics (CCE) Workshop 2025*<br>
+   [arXiv](https://arxiv.org/abs/2510.26091)
 
-3. **Anonymous Lottery in the Proof-of-Stake Setting**
-   Foteini Baldimtsi, Varun Madathil, Alessandra Scafuro, Linfeng Zhou
-   *IEEE Computer Security Foundations 2020* · [paper](https://eprint.iacr.org/2020/533.pdf)
-   *Workshop on Privacy ENhancing Cryptography In Ledgers (PENCIL), associated with EUROCRYPT 2019*
+3. **Anonymous Lottery in the Proof-of-Stake Setting**<br>
+   Foteini Baldimtsi, Varun Madathil, Alessandra Scafuro, Linfeng Zhou<br>
+   *IEEE Computer Security Foundations 2020*<br>
+   *Workshop on Privacy ENhancing Cryptography In Ledgers (PENCIL), associated with EUROCRYPT 2019*<br>
+   [paper](https://eprint.iacr.org/2020/533.pdf)
 
-4. **Collusion-Resistant Broadcast Encryption with Tight Reductions and Beyond**
-   Linfeng Zhou · [preprint](https://eprint.iacr.org/2016/953)
+4. **Collusion-Resistant Broadcast Encryption with Tight Reductions and Beyond**<br>
+   Linfeng Zhou<br>
+   [preprint](https://eprint.iacr.org/2016/953)
 
-5. **From Weakly Selective to Selective Security in Compact Functional Encryption, Revisited**
-   Linfeng Zhou · [preprint](https://eprint.iacr.org/2016/848.pdf)
+5. **From Weakly Selective to Selective Security in Compact Functional Encryption, Revisited**<br>
+   Linfeng Zhou<br>
+   [preprint](https://eprint.iacr.org/2016/848.pdf)
 
 ## Technical Report
 
@@ -31,8 +36,9 @@ title: Research
 - **Distributed Key Generation in Kryptology at Coinbase** · [PDF](https://github.com/coinbase/kryptology/blob/master/docs/GennaroDkg.pdf)
 - **Threshold ECDSA at Coinbase** · [PDF](https://github.com/coinbase/kryptology/blob/master/docs/Coinbase_Pseudocode_v5.pdf)
 - **Firo Lelantus Spark Audit Report** · [PDF](https://firo.org/about/research/papers/LinfengSparkAudit.pdf)
-- **Privately Mixing Identity and Reputation: Hardening the Blockchain to Make it Business-ready**
-  David W. Kravitz, Dulce Ponceleon, Linfeng Zhou · [Hyperledger Protocol Specification](https://openblockchain.readthedocs.io/en/latest/protocol-spec/)
+- **Privately Mixing Identity and Reputation: Hardening the Blockchain to Make it Business-ready**<br>
+  David W. Kravitz, Dulce Ponceleon, Linfeng Zhou<br>
+  merged in [Hyperledger Protocol Specification](https://openblockchain.readthedocs.io/en/latest/protocol-spec/)
 
 ## Company Blog Posts
 
